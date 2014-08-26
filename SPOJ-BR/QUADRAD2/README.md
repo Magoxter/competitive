@@ -1,4 +1,4 @@
 3829. Quadrados
 ==
 
-Problem: (QUADRAD2)[http://br.spoj.com/problems/QUADRAD2/]
+Problem: [QUADRAD2](http://br.spoj.com/problems/QUADRAD2/)
