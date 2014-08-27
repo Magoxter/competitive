@@ -1,7 +1,7 @@
 Competitive Programming
 ==============
 
-Repository containing solutions to competitive progamming problems.
+Repository containing solutions to competitive progamming problems in C++. Most of these problems could be compiled as plain C, but they are in C++ to keep things more standardized.
 
 
 ### Scripts
