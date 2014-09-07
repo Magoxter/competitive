@@ -14,3 +14,5 @@ I followed UFMG's training scripts to the programming marathon. You can find it 
   * Problem #3: [FATORIA2](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/FATORIA2)
   * Problem #4: [BAFO](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/BAFO)
   * Problem #5: [PAR](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/PAR)
+  * Problem #6: [PRIMO](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/PRIMO)
+  * Problem #16: [NUMEROMG](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/NUMEROMG)
