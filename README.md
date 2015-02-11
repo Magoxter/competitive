@@ -13,3 +13,4 @@ I followed UFMG's training scripts to the programming marathon. You can find it 
   * Problem #5: [PAR](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/PAR)
   * Problem #6: [PRIMO](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/PRIMO)
   * Problem #16: [NUMEROMG](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/NUMEROMG)
+  * Problem #19: [OBIHANOI](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/OBIHANOI)
