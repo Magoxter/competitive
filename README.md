@@ -17,3 +17,6 @@ I followed UFMG's training scripts to the programming marathon. You can find it 
   * Problem #18: [QUERM](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/QUERM)
   * Problem #19: [OBIHANOI](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/OBIHANOI)
   * Problem #20: [MINHOCA](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/MINHOCA)
+
+* __Script #1__
+  * Problem #1: [COPA1](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/COPA1)
