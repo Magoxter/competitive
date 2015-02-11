@@ -1,9 +1,6 @@
 Competitive Programming
 ==============
 
-Repository containing solutions to competitive progamming problems in C++. Most of these problems could be compiled as plain C, but they are in C++ to keep things more standardized.
-
-
 ### Scripts
 
 I followed UFMG's training scripts to the programming marathon. You can find it [here](http://wiki.maratona.dcc.ufmg.br/index.php/Roteiros).
