@@ -23,3 +23,5 @@ I followed UFMG's training scripts to the programming marathon. You can find it 
   * Problem #2: [CONTA1](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/CONTA1)
   * Problem #16: [ELEVADO2](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/ELEVADO2)
   * Problem #17: [F91](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/F91)
+  * Problem #19: [OBIPOKER](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/OBIPOKER)
+  
