@@ -17,11 +17,6 @@ int playHand(int *hand) {
 	std::map <int, int> mapHand;
 	for (int i = 0; i < 5; i++) mapHand[hand[i]]++;
 
-	/*for (auto it = mapHand.begin(); it != mapHand.end(); it++) {
-		std::cout << it->first << " " << it->second << std::endl;
-	}
-	std::cout << std::endl;*/
-
 	// Iterate through the map to find possible combinations
 	for (auto it = mapHand.begin(); it != mapHand.end(); it++) {
 		// Interator for the following for loops, starting at the next element.
