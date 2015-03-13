@@ -26,5 +26,6 @@ I followed UFMG's training scripts to the programming marathon. You can find it 
   * Problem #19: [OBIPOKER](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/OBIPOKER)
 
 * __Script #2__
+  * Problem #19: [MARIO](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/MARIO)
   * Problem #20: [Triangles](https://github.com/thiagomartinsbh/competitive/tree/master/URI/triangles)
   
