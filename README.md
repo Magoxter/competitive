@@ -33,5 +33,6 @@ I followed UFMG's training scripts to the programming marathon. You can find it 
   * Problem #20: [Triangles](https://github.com/thiagomartinsbh/competitive/tree/master/URI/triangles)
 
 * __Script #3__
+  * Problem #18: [INVCNT](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ/INVCNT)
   * Problem #19: [Buckets](https://github.com/thiagomartinsbh/competitive/tree/master/URI/buckets)
   

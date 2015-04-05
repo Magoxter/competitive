@@ -8,8 +8,8 @@
 **/
 
 /* Helper function to sort two pieces of the vector and count the number of inversions on them */
-int sortAndCount(std::vector<int> &seq, int begin, int middle, int end) {
-    int inv = 0;
+long long int sortAndCount(std::vector<int> &seq, int begin, int middle, int end) {
+    long long int inv = 0;
 
     // Two stacks containing the elements from the ranges above, so we can sort it
     std::stack<int> stackLeft;
@@ -61,35 +61,38 @@ int sortAndCount(std::vector<int> &seq, int begin, int middle, int end) {
 }
 
 /* How many movements to sort this */
-int countMovements(std::vector<int> &seq, int begin, int end) {
+long long int countInversions(std::vector<int> &seq, int begin, int end) {
     // If we have a array of one element, we need 0 moviments to order it */
     if (begin == end-1) return 0;
 
     // Devide array in the middle, call function to count both sides
     int middle = (begin + end) / 2;
 
-    int countLeft = countMovements(seq, begin, middle);
-    int countRight = countMovements(seq, middle, end);
-    int countMerge = sortAndCount(seq, begin, middle, end);
+    long long int countLeft = countInversions(seq, begin, middle);
+    long long int countRight = countInversions(seq, middle, end);
+    long long int countMerge = sortAndCount(seq, begin, middle, end);
 
     return countLeft + countRight + countMerge;
 }
 
 int main() {
-    int N;
+    // Number of test cases
+    int T;
+    std::cin >> T;
 
-    std::cin >> N;
-    while (N != 0) {
+    for (int i = 0; i < T; i++) {
+        // Number of numbers in this array
+        int N;
+        std:: cin >> N;
+
+        // Read array
         std::vector<int> seq(N);
-
         for (int i = 0; i < N; ++i) {
             std::cin >> seq[i];
         }
 
-        if (countMovements(seq, 0, N) % 2 == 0) std::cout << "Carlos" << std::endl;
-        else std::cout << "Marcelo" << std::endl;
-
-        std::cin >> N;
+        long long int answer = countInversions(seq, 0, N);
+        std::cout << answer << std::endl;
     }
     
     return 0;
