@@ -31,4 +31,7 @@ I followed UFMG's training scripts to the programming marathon. You can find it 
   * Problem #17: [TROCCARD](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/TROCCARD)
   * Problem #19: [MARIO](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/MARIO)
   * Problem #20: [Triangles](https://github.com/thiagomartinsbh/competitive/tree/master/URI/triangles)
+
+* __Script #3__
+  * Problem #19: [Buckets](https://github.com/thiagomartinsbh/competitive/tree/master/URI/buckets)
   
