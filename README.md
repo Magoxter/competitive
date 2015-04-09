@@ -34,6 +34,7 @@ I followed UFMG's training scripts to the programming marathon. You can find it 
 
 * __Script #3__
   * Problem #1: [POPULAR](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/POPULAR)
+  * Problem #4: [CANDY](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ/CANDY)
   * Problem #17: [JUNINA](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/JUNINA)
   * Problem #18: [INVCNT](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ/INVCNT)
   * Problem #19: [Buckets](https://github.com/thiagomartinsbh/competitive/tree/master/URI/buckets)
