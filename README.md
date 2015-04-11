@@ -43,6 +43,7 @@ I followed UFMG's training scripts to the programming marathon. You can find it 
   * Problem #1: [MARAT09](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/MARAT09)
   * Problem #2: [BIT](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/BIT)
   * Problem #3: [MOEDAS](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/MOEDAS)
+  * Problem #4: [DESCULPA](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/DESCULPA)
   * Problem #5: [JDENTIST](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/JDENTIST)
 
   
