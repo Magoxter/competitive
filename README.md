@@ -48,5 +48,6 @@ I followed UFMG's training scripts to the programming marathon. You can find it 
 
 *__Script $5__
   * Problem #4: [PEDAGIO](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/PEDAGIO)
+  * Problem #7: [DUENDE](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/DUENDE)
 
   
