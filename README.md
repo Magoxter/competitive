@@ -47,6 +47,7 @@ I followed UFMG's training scripts to the programming marathon. You can find it 
   * Problem #5: [JDENTIST](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/JDENTIST)
 
 * __Script #5__
+  * Problem #2: [ENERGIA](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/ENERGIA)
   * Problem #4: [PEDAGIO](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/PEDAGIO)
   * Problem #7: [DUENDE](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/DUENDE)
 
