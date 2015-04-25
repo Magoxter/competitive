@@ -35,7 +35,6 @@ I followed UFMG's training scripts to the programming marathon. You can find it 
 * __Script #3__
   * Problem #1: [POPULAR](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/POPULAR)
   * Problem #4: [CANDY](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ/CANDY)
-  * Problem #17: [JUNINA](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/JUNINA)
   * Problem #18: [INVCNT](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ/INVCNT)
   * Problem #19: [Buckets](https://github.com/thiagomartinsbh/competitive/tree/master/URI/buckets)
 
@@ -50,5 +49,11 @@ I followed UFMG's training scripts to the programming marathon. You can find it 
   * Problem #2: [ENERGIA](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/ENERGIA)
   * Problem #4: [PEDAGIO](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/PEDAGIO)
   * Problem #7: [DUENDE](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/DUENDE)
+  * Problem #11: [Boss](https://github.com/thiagomartinsbh/competitive/tree/master/URI/boss)
+
+* __Script #6__
+  * __ Problem #1: [CONTAGEM](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/CONTAGEM)
+  
+
 
   
