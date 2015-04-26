@@ -38,12 +38,15 @@ int dijkstra(Graph graph, int start, int end) {
         queue.pop();
         visited[v] = 1;
 
+        // Reached our goal
+        if (v == end) break;
+
         for (int i = 0; i < graph[v].size(); i++) {
             int x = graph[v][i].first;  // other vertex
             int w = graph[v][i].second; // weight
             int newDist = dist[v] + w;
 
-            if (newDist < dist[x]) {
+            if (!visited[x] && (newDist < dist[x])) {
                 dist[x] = newDist;
                 queue.push(std::make_pair(x, dist[x]));
             }
