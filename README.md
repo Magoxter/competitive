@@ -53,7 +53,4 @@ I followed UFMG's training scripts to the programming marathon. You can find it 
 * __Script #6__
   * Problem #1: [CONTAGEM](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/CONTAGEM)
   * Problem #2: [ENGARRAF](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/ENGARRAF)
-  
-
-
-  
+  * Problem #3: [DESVIO](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/DESVIO)

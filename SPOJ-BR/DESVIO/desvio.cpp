@@ -4,10 +4,9 @@
 #include <queue>
 #include <limits>
 
-int N, M;
-const int INT_MAX = std::numeric_limits<int>::max();
-
+int N, M, C, K; // Number of cities, roads, cities in the route and the starting point
 typedef std::map<int, std::vector<std::pair<int, int>>> Graph;
+const int INT_MAX = std::numeric_limits<int>::max();
 
 struct comp {
     bool operator() (const std::pair<int, int> &x, const std::pair<int, int> &y) {
@@ -58,7 +57,7 @@ int dijkstra(Graph graph, int start, int end) {
 }
 
 int main() {
-    std::cin >> N >> M;
+    std::cin >> N >> M >> C >> K;
     while (N != 0) {
         // Map of vector of pairs.
         Graph graph;
@@ -67,17 +66,15 @@ int main() {
         for (int i = 0; i < M; i++) {
             int v1, v2, weight;
             std::cin >> v1 >> v2 >> weight;
-            graph[v1].push_back(std::make_pair(v2, weight));
+
+            // if there is a route between a city in the route and a city not in the route, we dont need it.
+            if (!((v1 < C-1) && (v2 != v1 + 1))) graph[v1].push_back(std::make_pair(v2, weight));
+            if (!((v2 < C-1) && (v1 != v2 + 1))) graph[v2].push_back(std::make_pair(v1, weight));
         }
 
-        // Start and end nodes
-        int start, end;
-        std::cin >> start >> end;
+        std::cout << dijkstra(graph, K, C-1) << std::endl;
 
-        // Solve the problem
-        std::cout << dijkstra(graph, start, end) << std::endl;
-
-        std::cin >> N >> M;
+        std::cin >> N >> M >> C >> K;
     }
 
     return 0;
