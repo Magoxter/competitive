@@ -49,10 +49,10 @@ I followed UFMG's training scripts to the programming marathon. You can find it 
   * Problem #2: [ENERGIA](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/ENERGIA)
   * Problem #4: [PEDAGIO](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/PEDAGIO)
   * Problem #7: [DUENDE](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/DUENDE)
-  * Problem #11: [Boss](https://github.com/thiagomartinsbh/competitive/tree/master/URI/boss)
 
 * __Script #6__
-  * __ Problem #1: [CONTAGEM](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/CONTAGEM)
+  * Problem #1: [CONTAGEM](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/CONTAGEM)
+  * Problem #2: [ENGARRAF](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/ENGARRAF)
   
 
 
