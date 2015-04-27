@@ -58,3 +58,4 @@ I followed UFMG's training scripts to the programming marathon. You can find it 
 
 * __Script #7__:
   * Problem 1: [DAMA](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/DAMA)
+  * Problem 2: [COPA](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/COPA)
