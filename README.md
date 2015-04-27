@@ -54,5 +54,7 @@ I followed UFMG's training scripts to the programming marathon. You can find it 
   * Problem #1: [CONTAGEM](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/CONTAGEM)
   * Problem #2: [ENGARRAF](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/ENGARRAF)
   * Problem #3: [DESVIO](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/DESVIO)
-  * Problem #4: [REDOTICA](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/REDOTICA)
   * Problem $5: [PONTES09](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/PONTES09)
+
+* __Script #7__:
+  * Problem 1: [DAMA](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/DAMA)
