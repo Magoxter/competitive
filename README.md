@@ -57,5 +57,6 @@ I followed UFMG's training scripts to the programming marathon. You can find it 
   * Problem $5: [PONTES09](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/PONTES09)
 
 * __Script #7__:
-  * Problem 1: [DAMA](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/DAMA)
-  * Problem 2: [COPA](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/COPA)
+  * Problem #1: [DAMA](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/DAMA)
+  * Problem #2: [COPA](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/COPA)
+  * Problem #3: [BOTAS]((https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/BOTAS)
