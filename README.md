@@ -62,3 +62,7 @@ I followed UFMG's training scripts to the programming marathon. You can find it 
   * Problem #3: [BOTAS](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/BOTAS)
   * Problem #4: [ACOES1MG](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/ACOES1MG)
   * Problem #13: [BAODEMMG](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/BAODEMMG)
+
+* __Script #8__:
+  * Problem #2: [POODLEMG](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/POODLEMG)
+  
