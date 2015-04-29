@@ -65,4 +65,5 @@ I followed UFMG's training scripts to the programming marathon. You can find it 
 
 * __Script #8__:
   * Problem #2: [POODLEMG](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/POODLEMG)
+  * Problem #3: [ENCOTEL](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/ENCOTEL)
   
