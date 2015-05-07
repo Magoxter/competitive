@@ -1,3 +1,3 @@
-###11762. Poodle
+###2280. Encontre o telefone
 
 Problem: [ENCOTEL](http://br.spoj.com/problems/ENCOTEL)
