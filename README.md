@@ -70,3 +70,4 @@ I followed UFMG's training scripts to the programming marathon. You can find it 
 
 * __Script #9__:
   * Problem #1: [NLOGONIA](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/NLOGONIA)
+  * Problem #2: [PARPROX](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/PARPROX)
