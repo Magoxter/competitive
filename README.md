@@ -10,25 +10,25 @@ Solutions to competitive programming problems. Since I followed [UFMG's training
   Problems [#1 COPA1](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/COPA1), [#2 CONTA1](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/CONTA1), [#16 ELEVADO2](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/ELEVADO2), [#17 F91](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/F91), [#19 OBIPOKER](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/OBIPOKER)
 
 * __Script #2__  
-  Problems [#15 JASPION](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/JASPION), [#16 SENHA](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/SENHA), [#17 TROCCARD](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/TROCCARD), [#19 MARIO](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/MARIO), [#20 Triangles](https://github.com/thiagomartinsbh/competitive/tree/master/URI/triangles)
+  [#15 JASPION](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/JASPION), [#16 SENHA](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/SENHA), [#17 TROCCARD](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/TROCCARD), [#19 MARIO](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/MARIO), [#20 Triangles](https://github.com/thiagomartinsbh/competitive/tree/master/URI/triangles)
 
 * __Script #3__  
-  Problems [#1 POPULAR](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/POPULAR), [#4 CANDY](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ/CANDY), [#18 INVCNT](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ/INVCNT), [#19 Buckets](https://github.com/thiagomartinsbh/competitive/tree/master/URI/buckets)
+  [#1 POPULAR](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/POPULAR), [#4 CANDY](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ/CANDY), [#18 INVCNT](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ/INVCNT), [#19 Buckets](https://github.com/thiagomartinsbh/competitive/tree/master/URI/buckets)
 
 * __Script #4__  
-  Problems [#1 MARAT09](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/MARAT09), [#2 BIT](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/BIT), [#3 MOEDAS](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/MOEDAS), [#4 DESCULPA](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/DESCULPA), [#5 JDENTIST](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/JDENTIST)
+  [#1 MARAT09](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/MARAT09), [#2 BIT](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/BIT), [#3 MOEDAS](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/MOEDAS), [#4 DESCULPA](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/DESCULPA), [#5 JDENTIST](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/JDENTIST)
 
 * __Script #5__  
-  Problems [#2 ENERGIA](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/ENERGIA), [#4 PEDAGIO](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/PEDAGIO), [#7 DUENDE](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/DUENDE)
+  [#2 ENERGIA](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/ENERGIA), [#4 PEDAGIO](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/PEDAGIO), [#7 DUENDE](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/DUENDE)
 
 * __Script #6__  
-  Problems [#1 CONTAGEM](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/CONTAGEM), [#2 ENGARRAF](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/ENGARRAF), [#3 DESVIO](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/DESVIO), [$5 PONTES09](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/PONTES09)
+  [#1 CONTAGEM](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/CONTAGEM), [#2 ENGARRAF](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/ENGARRAF), [#3 DESVIO](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/DESVIO), [$5 PONTES09](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/PONTES09)
 
 * __Script #7__  
-  Problems [#1 DAMA](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/DAMA), [#2 COPA](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/COPA), [#3 BOTAS](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/BOTAS), [#4 ACOES1MG](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/ACOES1MG), [#13 BAODEMMG](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/BAODEMMG)
+  [#1 DAMA](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/DAMA), [#2 COPA](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/COPA), [#3 BOTAS](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/BOTAS), [#4 ACOES1MG](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/ACOES1MG), [#13 BAODEMMG](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/BAODEMMG)
 
 * __Script #8__  
-  Problems [#2 POODLEMG](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/POODLEMG), [#3 ENCOTEL](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/ENCOTEL), [#5 PLAGIO](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/PLAGIO)
+  [#2 POODLEMG](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/POODLEMG), [#3 ENCOTEL](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/ENCOTEL), [#5 PLAGIO](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/PLAGIO)
 
 * __Script #9__  
-  Problems [#1 NLOGONIA](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/NLOGONIA), [#2 PARPROX](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/PARPROX), [#3 METEORO](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/METEORO)
+  [#1 NLOGONIA](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/NLOGONIA), [#2 PARPROX](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/PARPROX), [#3 METEORO](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/METEORO)
