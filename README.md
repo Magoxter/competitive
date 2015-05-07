@@ -1,7 +1,7 @@
 Competitive Programming
 ==============
 
-Solutions to competitive programming problems. Since I followed [UFMG's training scripts](http://wiki.maratona.dcc.ufmg.br/index.php/Roteiros), most of these problems are in portuguese. All problems in "SPOJ-BR" are in portuguese and problems in the other website are mostly in english. 
+Solutions to competitive programming problems. Since I followed [UFMG's training scripts](http://wiki.maratona.dcc.ufmg.br/index.php/Roteiros), most of these problems are in portuguese. All problems in "SPOJ-BR" are in portuguese and problems in the other websites are mostly in english. 
 
 * __Script #0__  
   [#1 QUADRAD2](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/QUADRAD2), [#2 SOMA](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/SOMA), [#3 FATORIA2](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/FATORIA2), [#4 BAFO](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/BAFO), [#5 PAR](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/PAR), [#6 PRIMO](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/PRIMO), [#16 NUMEROMG](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/NUMEROMG), [#17 PAPRIMAS](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/PAPRIMAS), [#18 QUERM](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/QUERM), [#19 OBIHANOI](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/OBIHANOI), [#20 MINHOCA](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/MINHOCA)
