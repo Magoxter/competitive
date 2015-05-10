@@ -32,3 +32,6 @@ Solutions to competitive programming problems. Since I followed [UFMG's training
 
 * __Script #9__  
   [#1 NLOGONIA](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/NLOGONIA), [#2 PARPROX](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/PARPROX), [#3 METEORO](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/METEORO), [#4 Logo](https://github.com/thiagomartinsbh/competitive/tree/master/UVA/Logo), [#11 CAIXAMG](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/CAIXAMG)
+
+* __Script #14__
+  [#1 HANGOVER](http://www.spoj.com/problems/HANGOVER/)
