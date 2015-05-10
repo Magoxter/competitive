@@ -1,0 +1,3 @@
+###10221 - Satellites
+
+Problem: [Satellites](http://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1162)
