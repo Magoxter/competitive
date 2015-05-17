@@ -28,10 +28,10 @@ Solutions to competitive programming problems. Since I followed [UFMG's training
   [#1 DAMA](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/DAMA), [#2 COPA](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/COPA), [#3 BOTAS](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/BOTAS), [#4 ACOES1MG](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/ACOES1MG), [#13 BAODEMMG](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/BAODEMMG)
 
 * __Script #8__  
-  [#2 POODLEMG](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/POODLEMG), [#3 ENCOTEL](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/ENCOTEL), [#5 PLAGIO](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/PLAGIO)
+  [#1 Choosing Symbol Pairs](https://github.com/thiagomartinsbh/competitive/tree/master/CODEFORCES/choosing), [#2 POODLEMG](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/POODLEMG), [#3 ENCOTEL](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/ENCOTEL), [#5 PLAGIO](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/PLAGIO)
 
 * __Script #9__  
   [#1 NLOGONIA](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/NLOGONIA), [#2 PARPROX](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/PARPROX), [#3 METEORO](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/METEORO), [#4 Logo](https://github.com/thiagomartinsbh/competitive/tree/master/UVA/Logo), [#11 CAIXAMG](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/CAIXAMG)
 
-* __Script #14__
+* __Script #14__  
   [#1 HANGOVER](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ/HANGOVER), [#4 DVORONOI](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/DVORONOI), [#6 Satellites](https://github.com/thiagomartinsbh/competitive/tree/master/UVA/satellites), [#7 Colorful Flowers](https://github.com/thiagomartinsbh/competitive/tree/master/UVA/flowers)
