@@ -42,5 +42,8 @@ Solutions to competitive programming problems. Since I followed [UFMG's training
 * __Script #12__
   [#1 Let Me Count the Ways](https://github.com/thiagomartinsbh/competitive/tree/master/UVA/counttheways)
 
+* __Script #13__
+  [#1 MTOTALF](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ/MTOTALF), [#2 Internet Bandwidth](https://github.com/thiagomartinsbh/competitive/tree/master/UVA/internetbandwidth), [#3 CAVALOS](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ/CAVALOS)
+
 * __Script #14__  
   [#1 HANGOVER](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ/HANGOVER), [#4 DVORONOI](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/DVORONOI), [#6 Satellites](https://github.com/thiagomartinsbh/competitive/tree/master/UVA/satellites), [#7 Colorful Flowers](https://github.com/thiagomartinsbh/competitive/tree/master/UVA/flowers)
