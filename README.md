@@ -49,4 +49,4 @@ Solutions to competitive programming problems. Since I followed [UFMG's training
   [#1 HANGOVER](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ/HANGOVER), [#4 DVORONOI](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/DVORONOI), [#6 Satellites](https://github.com/thiagomartinsbh/competitive/tree/master/UVA/satellites), [#7 Colorful Flowers](https://github.com/thiagomartinsbh/competitive/tree/master/UVA/flowers)
 
 * __Script #15__
-  [#1 GUARDCOS](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/GUARDCOS), [#2 Zeros and Ones](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1265)
+  [#1 GUARDCOS](https://github.com/thiagomartinsbh/competitive/tree/master/SPOJ-BR/GUARDCOS), [#2 Zeros and Ones](https://github.com/thiagomartinsbh/competitive/tree/master/UVA/zerosandones), [#7 Marks Distribution](https://github.com/thiagomartinsbh/competitive/tree/master/UVA/marksdistribution)
